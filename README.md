@@ -1,1 +1,1 @@
-# ALL-C-file
+# ALL-C/C++-file
